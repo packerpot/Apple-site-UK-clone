@@ -1,0 +1,94 @@
+.iphone14pd {
+    background-image: url("/images/hero_iphone14pro__e5xbgo5ffhg2_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+}
+
+.iphone14 {
+    background-image: url("/images/hero_iphone14__fjmsqstr1ceq_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.homepod {
+    background-image: url("/images/hero_homepod__fnwfsi8ride2_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 550px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.container_watch {
+    background-image: url("/images/promo_apple_watch_series_8__ch7rexplmihe_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+
+}
+
+.macbookpro {
+    background-image: url("/images/promo_mbp_preorder__faqgyfz56umq_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+
+}
+
+.ipad {
+    background-image: url("/images/promo_ipad__fioegapg12qi_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.valentine {
+    background-image: url("/images/promo_valentines_day_2023__duffhlmdxcqe_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.fitness {
+    background-image: url("/images/promo-apple-fitness-plus-iphone__bzeal882mv7m_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.readly {
+    background-image: url("/images/promo_bhm__d8b9z5rlwjgy_large.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 630px;
+    cursor: pointer;
+    margin-top: 10px;
+}

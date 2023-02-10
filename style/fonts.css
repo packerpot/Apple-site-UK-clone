@@ -1,0 +1,274 @@
+body {
+    font-size: 1.5rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/*fonts color*/
+
+.iphone14pd,
+.homepod,
+.blown,
+.variation,
+.product_nme_mac,
+.container_fitness,
+.container_readly {
+    color: #f5f5f7;
+}
+
+.iphone14,
+.special,
+.gift,
+.product_lines_add {
+    color: #010100;
+}
+
+.know_more,
+.unbox {
+    color: #2997ff;
+}
+
+.arrow {
+    color: #268ced;
+}
+
+.arrow_white,
+.know_more_trynow {
+    color: #1d77d2;
+}
+
+/*hover effect*/
+.arrow:link,
+.arrow_white:link {
+    text-decoration: none;
+}
+
+.arrow:hover,
+.arrow_white:hover {
+    text-decoration: underline;
+}
+
+/*alignment */
+
+.horizontal-container,
+.align-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vertical-container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.align-center {
+    padding: 6.1rem 0;
+}
+
+.container_watch,
+.container_ipad {
+    margin-left: 10px;
+}
+
+.container_macbook,
+.container_gift {
+    margin-right: 10px;
+}
+
+.break {
+    padding: 4.9em;
+}
+
+.repeat {
+    margin-top: 0;
+}
+
+.right{
+    margin: 1.3em;
+}
+
+/*.over {
+    padding: 7.4em;
+}*/
+
+/* display 1*/
+
+.product_nme {
+    line-height: 1;
+    font-weight: 700;
+    font-size: 3.1rem;
+}
+
+.tag_line {
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding: 0.5em;
+}
+
+.know_more {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+/* display 2*/
+
+.image-2 {
+    padding: 3.5em 0;
+}
+
+.col-2 {
+    line-height: 1;
+    font-weight: 650;
+    font-size: 3.2rem;
+}
+
+.bb-1 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    padding: 0.5em;
+}
+
+/*display 3*/
+
+.image-3 {
+    padding: 3.5em 0;
+}
+
+.col-3 {
+    line-height: 1;
+    font-weight: 650;
+    font-size: 3.2rem;
+}
+
+.bb-2 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    padding: 0.5em;
+}
+
+/* display 4-1*/
+
+.watchlogo {
+    width: auto;
+    padding: 10px;
+}
+
+.blown {
+    line-height: 1;
+    font-weight: 400;
+    font-size: 1.3rem;
+    padding: 5px;
+}
+
+.blown_para {
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding: 0.7em;
+}
+
+/* display 4-2*/
+
+
+.product_nme_mac {
+    line-height: 1;
+    font-weight: 600;
+    font-size: 2.3rem;
+    padding: 0.1em;
+
+}
+
+.variation {
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 5px;
+}
+
+.know_more_buy {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.7em;
+}
+
+/* display 5-1*/
+
+.product_nme_ipad {
+    line-height: 1;
+    font-weight: 700;
+    font-size: 2.4rem;
+}
+
+.joy {
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0.4em
+}
+
+.now {
+    font-weight: 550;
+}
+
+/* display 5-2*/
+
+.special {
+    line-height: 1;
+    font-weight: 700;
+    font-size: 2.4rem;
+}
+
+.gift {
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0.4em
+}
+
+.unbox {
+    font-size: 1.1rem;
+    font-weight: 550;
+    padding: 0.2em;
+}
+
+/* display 6-1*/
+.fitneseplus {
+    width: auto;
+    padding: 10px;
+}
+
+.product_lines_add {
+    line-height: 1.2;
+    font-weight: 400;
+    font-size: 1.2rem;
+    letter-spacing: .016em;
+    padding: 5px;
+}
+
+.know_more_trynow {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.7em;
+
+}
+
+/* display 5-2*/
+
+.woven {
+    line-height: 1.2;
+    font-weight: 550;
+    font-size: 2.3rem;
+}
+
+.watchstrap {
+    line-height: 1.2;
+    font-weight: 500;
+    font-size: 1.3rem;
+    padding: 0.4em
+}
+
+.tryorbuy {
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding: 0.2em;
+
+}
